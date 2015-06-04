@@ -52,7 +52,9 @@ Which will result:
 { name: 'John Doe', email: 'john.doe@example.com' }
 ```
 
-## `instance.verify`
+## API
+
+### `instance.verify`
 _function(mappedErrors)_
 
 Return all the errors or `null`.
@@ -88,7 +90,7 @@ mappedErrors:
 }
 ```
 
-##`MapValidator.extend`
+### `MapValidator.extend`
 _function(name, fn)_
 
 Used to add your own validators:
@@ -99,7 +101,7 @@ MapValidator.extend('isWhitespace', function(str) {
 });
 ```
 
-##`MapValidator.extend`
+### `MapValidator.extend`
 _function(name, fn)_
 
 Used to add your own sanitizers:
