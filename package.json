@@ -1,7 +1,7 @@
 {
   "name": "map-validator",
   "description": "A library of object validators and sanitizers.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/moshest/map-validator",
   "keywords": [
     "object", "map", "keys", "express-validator",
