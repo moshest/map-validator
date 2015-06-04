@@ -101,7 +101,7 @@ MapValidator.extend('isWhitespace', function(str) {
 });
 ```
 
-### `MapValidator.extend`
+### `MapValidator.sanitizerExtend`
 _function(name, fn)_
 
 Used to add your own sanitizers:
