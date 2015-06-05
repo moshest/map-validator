@@ -3,7 +3,7 @@
 [![build](https://img.shields.io/travis/moshest/map-validator.svg)](https://travis-ci.org/moshest/map-validator)
 [![npm](https://img.shields.io/npm/v/map-validator.svg)](https://npmjs.org/package/map-validator)
 [![npm](https://img.shields.io/npm/dm/map-validator.svg)](https://npmjs.org/package/map-validator)
-[![npm](https://img.shields.io/npm/l/map-validator.svg)](https://github.com/moshest/map-validator/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/l/map-validator.svg)](LICENSE)
 
 
 An object validator based on [node-validator](https://github.com/chriso/validator.js).
@@ -115,5 +115,5 @@ MapValidator.sanitizerExtend('toLowerCase', function(str) {
 ## License
 
 Copyright &copy; 2015 Moshe Simantov <ms@development.co.il>, 
-[MIT License](map-validator/blob/master/LICENSE)
+[MIT License](LICENSE)
 
